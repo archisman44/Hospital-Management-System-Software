@@ -1,4 +1,4 @@
-# Medical Institution Software
+# Hospital Management System Software
 
 A comprehensive medical management system built with React and Vite.
 
