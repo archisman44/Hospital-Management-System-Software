@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Archisman**
 - GitHub: [@archisman44](https://github.com/archisman44)
-- LinkedIn: [Connect with me]([https://linkedin.com/in/archisman44](https://www.linkedin.com/in/archisman-chakraborty-056b33232/))
+- LinkedIn: [Connect with me](https://linkedin.com/in/archisman44](https://www.linkedin.com/in/archisman-chakraborty-056b33232/)
 
 ## 🙏 Acknowledgments
 
